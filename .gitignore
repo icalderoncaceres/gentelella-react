@@ -1,0 +1,5 @@
+node_modules/
+./conf.*
+./modules/components/login/Login.*
+public/src/js/bundle.min.js
+./public/src/js/bundle.min.js
